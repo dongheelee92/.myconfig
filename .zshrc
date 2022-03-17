@@ -26,8 +26,8 @@ export CXX='/usr/bin/clang++'
 #export CLICOLOR=YES
 
 #FOR KOREAN START
-export LANG="ko_KR.UTF-8"
-export LC_ALL="ko_KR.UTF-8"
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
 # FOR KOREAN END
 
 #YCM SETTTING START
